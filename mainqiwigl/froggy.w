@@ -1,2 +1,3 @@
 wagputs frogspace = create("workspace", "froggy");
-CreatefroggyWiglOoTooUoo(frogspace);
+wagputs wigoofrogs = CreateFroggyWiglOoTooUoo(frogspace);
+wigoofrogs.init();

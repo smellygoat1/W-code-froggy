@@ -1,1 +1,1 @@
-IMPORT DEFAULT MODULE("froggy");
+IMPORT DEFAULT MODULE("froggy.w");

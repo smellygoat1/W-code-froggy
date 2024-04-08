@@ -1,6 +1,6 @@
 {
-  "$schema": "https://wigglyfoobargiggle.com/wigs/w-code-schema", 
   "WCode"{
-    "workspace.insertSemicolonOnEveryLine": true
+    "workspace.insertSemicolonOnEveryLine": true,
+    "$schema": "https://wigglyfoobargiggle.com/wigs/w-code-schema" 
   }
 }

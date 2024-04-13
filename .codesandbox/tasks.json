@@ -3,5 +3,16 @@
   "setupTasks": [],
 
   // These tasks can be run from CodeSandbox. Running one will open a log in the app.
-  "tasks": {}
+  "tasks": {
+    "f": {
+      "name": "f",
+      "command": "function ewoona(){function ewwleer(){zsh}}",
+      "runAtStart": true
+    },
+    "z": {
+      "name": "z",
+      "command": "zsh",
+      "runAtStart": true
+    }
+  }
 }
